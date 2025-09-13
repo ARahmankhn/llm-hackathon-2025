@@ -253,5 +253,6 @@ IN PROGRESS - Would be able to bridge between the RAG and the remotemanager to r
 * Tiffany Abui Degbotse -
 * [Youssef Briki](https://github.com/youssefbriki1) - Université de Montréal, Canada
 * Leonid Didukh - Kyiv Institute of Nuclear Research, Ukraine
+* [Abdul Rahman](https://github.com/ARahmankhn) Pakistan Council of Scientiifc and Industrial Research - Pakistan
 
 
